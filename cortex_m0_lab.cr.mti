@@ -1,0 +1,37 @@
+{C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/cortexm0_memory.vhd} {0 {vcom -work work -2002 -explicit -vopt {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/cortexm0_memory.vhd}
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+** Error: (vcom-19) Failed to access library 'work' at "work".
+
+No such file or directory. (errno = ENOENT)
+
+} {3.0 4.0} {}} {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/cortexm0ds_logic.v} {0 {vlog -work work -vopt {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/cortexm0ds_logic.v}
+Model Technology ModelSim SE-64 vlog 10.1b Compiler 2012.04 Apr 26 2012
+** Error: (vlog-19) Failed to access library 'work' at "work".
+
+No such file or directory. (errno = ENOENT)
+
+} {3.0 4.0} {}} {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/CM0_DSSystem.vhd} {0 {vcom -work work -2002 -explicit -vopt {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/CM0_DSSystem.vhd}
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+** Error: (vcom-19) Failed to access library 'work' at "work".
+
+No such file or directory. (errno = ENOENT)
+
+} {3.0 4.0} {}} {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/tb_cortexm0.vhd} {0 {vcom -work work -2002 -explicit -vopt {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/tb_cortexm0.vhd}
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+** Error: (vcom-19) Failed to access library 'work' at "work".
+
+No such file or directory. (errno = ENOENT)
+
+} {3.0 4.0} {}} {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/DetectorBus.vhd} {0 {vcom -work work -2002 -explicit -vopt {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/DetectorBus.vhd}
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+** Error: (vcom-19) Failed to access library 'work' at "work".
+
+No such file or directory. (errno = ENOENT)
+
+} {3.0 4.0} {}} {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/CORTEXM0DS.v} {0 {vlog -work work -vopt {C:/Users/eo20203/OneDrive - University of Bristol/Documents/Downloads/arm_lab/arm_lab/CORTEXM0DS.v}
+Model Technology ModelSim SE-64 vlog 10.1b Compiler 2012.04 Apr 26 2012
+** Error: (vlog-19) Failed to access library 'work' at "work".
+
+No such file or directory. (errno = ENOENT)
+
+} {3.0 4.0} {}}
